@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NITESH KUMAR RANA</h1>
-<h3 align="center">A passionate frontend and Full Stack Developer from India</h3>
+<h3 align="center">A passionate frontend and MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishkr93&label=Profile%20views&color=0e75b6&style=flat" alt="nitishkr93" /> </p>
 
