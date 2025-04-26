@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm NITESH KUMAR RANA</h1>
-<h3 align="center">A passionate frontend and MERN Stack Developer from India</h3>
+<h3 align="center">A passionate frontend and Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishkr93&label=Profile%20views&color=0e75b6&style=flat" alt="nitishkr93" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishkr93" alt="nitishkr93" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkr93&show_icons=true&locale=en&layout=compact" alt="nitishkr93" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishkr93&show_icons=true&locale=en" alt="nitishkr93" /></p>
+
